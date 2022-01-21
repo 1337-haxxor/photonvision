@@ -14,13 +14,14 @@
  * You should have received a copy of the GNU General Public License
  * along with this program.  If not, see <https://www.gnu.org/licenses/>.
  */
+
 package org.photonvision.common.hardware;
 
 public enum PiVersion {
     PI_B("Pi Model B"),
     COMPUTE_MODULE("Compute Module Rev"),
     ZERO_W("Pi Zero W Rev 1.1"),
-    ZERO_2_W("Raspberry Pi Zero 2 W"),
+    ZERO_2_W("Raspberry Pi Zero 2"),
     PI_3("Pi 3"),
     PI_4("Pi 4"),
     COMPUTE_MODULE_3("Compute Module 3"),
